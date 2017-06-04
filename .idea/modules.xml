@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/Trueque_IUE.iml" filepath="$PROJECT_DIR$/Trueque_IUE.iml" />
-      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Books_IUE.iml" filepath="$PROJECT_DIR$/Books_IUE.iml" />
     </modules>
   </component>
 </project>
